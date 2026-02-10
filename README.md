@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+## Hi 👋, I'm Lalit Jamliya
+
+Aspiring Data Analyst | Python | SQL | Power BI
+
+![Profile Views](https://komarev.com/ghpvc/?username=lalitjamliya72&label=Profile%20views&color=0e75b6&style=flat)
+
 🔭 I’m currently working on <br>🌱 I’m currently learning DSA and PowerBI<br>
 
 
